@@ -1,3 +1,5 @@
-#DAY 01
-Learnt how to use github 
+
+Day 01 : Learnt git and github  
+
+ 
  
