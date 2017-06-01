@@ -1,5 +1,5 @@
 
-#Day 01 : Learnt git and github  
+# Day 01 : Learnt git and github  
          Downloaded node and completed the  following challenges from 
              [Git-it guide](http://jlord.us/git-it/index.html)
             1.  [Get git](http://jlord.us/git-it/challenges/get_git.html)
