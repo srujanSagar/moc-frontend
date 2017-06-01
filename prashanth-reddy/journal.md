@@ -1,8 +1,8 @@
 
 #Day 01 : Learnt git and github  
          Downloaded node and completed the  following challenges from 
-         [Git-it guide] (http://jlord.us/git-it/index.html)
-            1.  [Get git] (http://jlord.us/git-it/challenges/get_git.html)
+             [Git-it guide](http://jlord.us/git-it/index.html)
+            1.  [Get git](http://jlord.us/git-it/challenges/get_git.html)
             2.  [Create Repository ](http://jlord.us/git-it/challenges/repository.html)
             3.  [Commiting Repository ](http://jlord.us/git-it/challenges/commit_to_it.html)
             4.  [GitHub account](http://jlord.us/git-it/challenges/githubbin.html)
