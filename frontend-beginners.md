@@ -12,7 +12,7 @@
 None
 
 ## Sub-concepts 
-- HTML headings, para’s, image tag, anchor tag, lists, forms, span, divs, classes, id’s
+- HTML headings, paraâ€™s, image tag, anchor tag, lists, forms, span, divs, classes, idâ€™s
 - Window object, Document and Element DOM interface 
 - CSS selectors, styling properties, media queries
 - JavaScript data types, Object properties, Functions, Prototypes, for/while loop, if/else statements, built-in methods
@@ -33,6 +33,7 @@ None
 - [Flexbox Introduction](http://flexboxfroggy.com/)
 - [ES6 Features](http://es6-features.org/)
 - [Understanding ES6](https://leanpub.com/understandinges6/read)
+- [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 
 ## Time estimate 
 - 3 - 5 hours per day
