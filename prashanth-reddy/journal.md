@@ -12,6 +12,11 @@ Downloaded node and completed the  following challenges from  [Git-it guide](htt
 9.  [Pulling Changes](http://jlord.us/git-it/challenges/pull_never_out_of_date.html)
 10. [Pull Requests](http://jlord.us/git-it/challenges/requesting_you_pull_please.html)
 11. [Merging](http://jlord.us/git-it/challenges/merge_tada.html)
+
+# Day 02: Working on projects
+1. Worked on an old project made few edits [Tribute Page](https://codepen.io/prashanthreddykallem/pen/eROaom)
+2. Built a [Survey page](https://codepen.io/prashanthreddykallem/full/LLPJgw/)
+ 
             
             
             
