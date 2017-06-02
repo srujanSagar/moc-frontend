@@ -1,4 +1,17 @@
-DAY 1:
-All the people who were presented there introduced themselves and followed by a orientation program by Kapil.
-Then we were made to install node.js and git in our laptops
-There were few challenges given to understand the contents in git like what is repo,branch,commiting and push pull where we were guided if we are struck in the midst
+*DAY 1:* 
+:clock10:
+###learning git and github
+*Installed node.js& git
+*creating repo in git
+*creating file and commiting it
+*connectng to a remote
+*pushing to remote origin
+*creating new pull request
+:clock330:
+*DAY 2:*
+:clock10:
+*Went through HTML/CSS references provided in curriculum
+*learnt flexbox properties for css
+*learnt how to add youtube video in the webpage(embed code)
+*created a tribute page in codepen which is provided in fcc curriculum
+:clock2:
