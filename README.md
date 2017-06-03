@@ -10,7 +10,7 @@ If you're already familar with what the beginner track covers, then start off wi
 - [Learn basics of Git and GitHub](http://jlord.us/git-it/index.html)
 - Write logs on a daily basis : 
   - Fork the [moc-frontend](https://github.com/fcc-hyd/moc-frontend) repo, 
-  - close it locally, 
+  - clone it locally,
   - create a new folder with your name, 
   - create a new document named journal.md, you'll be writing your daily logs in this document
   
