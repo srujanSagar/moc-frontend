@@ -1,3 +1,4 @@
+
 *DAY 1:* 
 :clock10:
 # learning git and github
@@ -8,6 +9,7 @@
 - pushing to remote origin
 - creating new pull request
 :clock330:
+
 *DAY 2:*
 :clock10:
 - Went through HTML/CSS references provided in curriculum
