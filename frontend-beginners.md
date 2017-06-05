@@ -28,6 +28,7 @@ None
 - [Frontend Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 - [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Practical JavaScript course](https://watchandcode.com/p/practical-javascript)
+- [JavaScript Info](http://javascript.info)
 - [JavaScript 30](https://javascript30.com/)
 - [JS : Understanding the Wierd Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 - [Flexbox Introduction](http://flexboxfroggy.com/)
