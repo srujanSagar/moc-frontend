@@ -1,1 +1,6 @@
-Day-1: installed git. Created a repository, create a file, saved it and commited the changes. Fork a repository and clone it from github to work locally. Learned how to commit the changes locally. To push your local changes to the remote,pulling changes from the remote to your computer. created and checkout a branch. commited changes to a branch and merged them to the master and delete a branch. deleting a branch remotely.
+##Day-1:
+>-Fork a repository and clone it from github to work locally.
+>-To push your local changes to the remote,pulling changes from the remote to your computer. 
+>-created and checkout a branch, commited changes to the branch, merged it to the master and delete it.
+>-deleting a branch remotely
+>-learnt using markdown.
