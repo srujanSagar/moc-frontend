@@ -9,3 +9,8 @@
 #### 02/06: Basic JavaScript
      
    * Started off with Basic JS challenges provided by FreeCodeCamp
+   
+#### 05/06: Basic JavaScript & Tribute project
+     
+   * Continued with few more JS challenges 
+   * Started working on FCC Basic Front End Project - Tribute Page
