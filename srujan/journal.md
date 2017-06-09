@@ -15,4 +15,13 @@
 
 #### 06/06: Tribute Page
 
-   * Playing around with CSS animations & media queries
+   * Played around with CSS animations & media queries
+
+#### 08/06: CSS
+
+    * reiterated the concepts of Flex Box & RD
+
+#### 09/06: Tribute Page
+
+    * Completed the Tribute Project -- fully responsive
+    * Link to the Project, [Code Pen](https://codepen.io/srujan369/full/EXPZzx/)
