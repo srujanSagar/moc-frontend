@@ -19,7 +19,7 @@
 
 #### 08/06: CSS
 
-    * reiterated the concepts of Flex Box & RD
+    * Reiterated the concepts of Flex Box & RD
 
 #### 09/06: Tribute Page
 
