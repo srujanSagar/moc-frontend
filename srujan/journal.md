@@ -25,3 +25,14 @@
 
     * Completed the Tribute Project -- fully responsive
     * Link to the Project, [Code Pen](https://codepen.io/srujan369/full/EXPZzx/)
+
+#### 11/06: Presentation
+
+    * Gave a presentation on Tribute Page Project and discussed my experience with One Month Code thus far
+
+#### 12/06: Started working on a front-end Project
+
+    * Worked on how to make RWD without the help of frameworks
+    * Mobile first approach
+    * Learnt about objects in JS
+    * Started off with another front-end project
