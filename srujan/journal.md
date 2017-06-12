@@ -19,10 +19,11 @@
 
 #### 08/06: CSS
 
-    * Reiterated the concepts of Flex Box & RD
+   * Reiterated the concepts of Flex Box & RD
 
 #### 09/06: Tribute Page
 
+<<<<<<< HEAD
     * Completed the Tribute Project -- fully responsive
     * Link to the Project, [Code Pen](https://codepen.io/srujan369/full/EXPZzx/)
 
@@ -36,3 +37,7 @@
     * Mobile first approach 
     * Learnt about objects in JS
     * Started off with another front-end project
+=======
+   * Completed the Tribute Project -- fully responsive
+     * Link to the Project, [Code Pen](https://codepen.io/srujan369/full/EXPZzx/)
+>>>>>>> 792e865062f9f5f6c7618bcb64968ef3527d2e16
