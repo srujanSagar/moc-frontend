@@ -33,6 +33,6 @@
 #### 12/06: Started working on a front-end Project
 
     * Worked on how to make RWD without the help of frameworks
-    * Mobile first approach
+    * Mobile first approach 
     * Learnt about objects in JS
     * Started off with another front-end project
