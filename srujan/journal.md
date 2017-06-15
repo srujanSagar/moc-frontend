@@ -33,7 +33,15 @@
 #### 12/06: Started working on a front-end Project
 
    * Worked on how to make RWD without the help of frameworks
-   * Mobile first approach 
+   * Mobile first approach
    * Learnt about objects in JS
    * Started off with a front-end project
 
+#### 13/06: JavaScript
+
+   * Continued solving JS challenges from FCC curriculum
+
+#### 14/06: JS & Front-end Project
+
+    * Made a horoscope generator using Arrays & switch statement -- NOT a project
+    * Creating a Survey Form -- FCC project
