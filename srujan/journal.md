@@ -43,5 +43,5 @@
 
 #### 14/06: JS & Front-end Project
 
-    * Made a horoscope generator using Arrays & switch statement -- NOT a project
-    * Creating a Survey Form -- FCC project
+   * Made a horoscope generator using Arrays & switch statement -- NOT a project
+   * Creating a Survey Form -- FCC project
