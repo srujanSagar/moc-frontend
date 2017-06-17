@@ -1,0 +1,201 @@
+/***********************************
+         *Grid*
+ ***********************************/
+
+.col-1 {
+	width: 8.33%;
+}
+
+.col-2 {
+	width: 16.66%;
+}
+
+.col-3 {
+	width: 25%;
+}
+
+.col-4 {
+	width: 33.33%;
+}
+
+.col-5 {
+	width: 41.66%;
+}
+
+.col-6 {
+	width: 50%;
+}
+
+.col-7 {
+	width: 58.33%;
+}
+
+.col-8 {
+	width: 66.66%;
+}
+
+.col-9 {
+	width: 75%;
+}
+
+.col-10 {
+	width: 83.33%;
+}
+
+.col-11 {
+	width: 91.66%;
+}
+
+.col-12 {
+	width: 100%;
+}
+
+body {
+	font-family: 'Raleway';
+	overflow-x: hidden;
+	background: #F9F9F9;
+}
+
+.container {
+	box-sizing: border-box;
+	width: 60%;
+	background: #fff;
+	margin: auto;
+	border: 1px solid #E8E8E8;
+	border-radius: 10px;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, .25);
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Josefin Slab';
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+}
+
+.labels {
+	text-align: center;
+	margin-top: 40px;
+}
+
+.inputs {
+	text-align: center;
+	margin-left: 10px;
+	margin: 5px;
+}
+
+.input-styles {
+	height: auto;
+	width: 40%;
+	border: 1px solid #c0c0c0;
+	border-left: 3px solid #DD4C4F;
+	border-radius: 2px;
+	padding: 12px;
+}
+
+.radio-btn {
+	margin-top: 10px;
+	position: relative;
+	right: 25px;
+	top: 15px;
+}
+
+.radio {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 38%;
+	bottom: 10px;
+	text-align: justify;
+	margin-bottom: -20px;
+}
+
+.dropdown {
+	height: 40px;
+	width: 32%;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	border-radius: 2px;
+}
+
+.check {
+	display: flex;
+	justify-content: center;
+}
+
+.checkbox {
+	list-style-type: none;
+	position: relative;
+	right: 35px;
+	margin-bottom: 20px;
+}
+
+input::placeholder {
+	padding-left: 3px;
+}
+
+.text-area {
+	text-align: center;
+	font-weight: 500;
+}
+
+textarea {
+	margin-top: 20px;
+	width: 40%;
+	height: auto;
+	font-family: 'Lato';
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+
+.button {
+	text-align: right;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	position: relative;
+	left: 60px;
+}
+
+button {
+	width: 200px;
+	padding: 10px;
+	font-size: 18px;
+	color: white;
+	background: #DD4C4F;
+	border: 0px solid;
+	border-radius: 5px;
+	margin-right: 90px;
+}
+
+
+/***********************************
+         *Media Queries*
+ ***********************************/
+
+@media screen and (max-width: 852px) {
+	.container {
+		width: 90%;
+	}
+	.button {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.input-styles {
+		width: 90%;
+	}
+	.dropdown {
+		width: 80%;
+	}
+	textarea {
+		width: 80%;
+	}
+}
