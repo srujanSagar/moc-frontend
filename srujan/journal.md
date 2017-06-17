@@ -48,6 +48,10 @@
 
 #### 15/06: Survey Form
 
-   * Completed the Survey Form Project 
+   * Completed the Survey Form Project
    * Link to the Project, [Code Pen](https://codepen.io/srujan369/full/NgbJeq/)
 
+#### 16/06: Feedback Form
+
+   * Changed the design & styles of Feedback Form (Survey form)
+   * Link is same as above
